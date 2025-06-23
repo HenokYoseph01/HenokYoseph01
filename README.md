@@ -36,7 +36,7 @@ Node.js · MongoDB · Express · Java · React Native · React · TypeScript · 
 > Here are some tools and technologies I work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,postgres,git,github,java,cpp,cs,heroku,mysql,php,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,express,mongodb,postgres,git,github,java,cpp,cs,heroku,mysql,php,postman,jest" />
 </p>
 
 ---
