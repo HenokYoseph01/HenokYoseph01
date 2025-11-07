@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henok</h1>
-<h3 align="center">🚀 Passionate Backend Developer from Ethiopia</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer from Ethiopia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=henokyoseph01&label=Profile%20Views&color=0e75b6&style=flat" alt="henokyoseph01" />
